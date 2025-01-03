@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saripallipriyanka23/entnt-calendar-app.git/static/css/main.97949004.css",
+    "main.js": "/saripallipriyanka23/entnt-calendar-app.git/static/js/main.bfb7ee5b.js",
+    "static/js/239.67dd5ea8.chunk.js": "/saripallipriyanka23/entnt-calendar-app.git/static/js/239.67dd5ea8.chunk.js",
+    "static/js/213.7696972e.chunk.js": "/saripallipriyanka23/entnt-calendar-app.git/static/js/213.7696972e.chunk.js",
+    "static/js/455.9c142af9.chunk.js": "/saripallipriyanka23/entnt-calendar-app.git/static/js/455.9c142af9.chunk.js",
+    "static/js/488.9ade48c6.chunk.js": "/saripallipriyanka23/entnt-calendar-app.git/static/js/488.9ade48c6.chunk.js",
+    "index.html": "/saripallipriyanka23/entnt-calendar-app.git/index.html",
+    "main.97949004.css.map": "/saripallipriyanka23/entnt-calendar-app.git/static/css/main.97949004.css.map",
+    "main.bfb7ee5b.js.map": "/saripallipriyanka23/entnt-calendar-app.git/static/js/main.bfb7ee5b.js.map",
+    "239.67dd5ea8.chunk.js.map": "/saripallipriyanka23/entnt-calendar-app.git/static/js/239.67dd5ea8.chunk.js.map",
+    "213.7696972e.chunk.js.map": "/saripallipriyanka23/entnt-calendar-app.git/static/js/213.7696972e.chunk.js.map",
+    "455.9c142af9.chunk.js.map": "/saripallipriyanka23/entnt-calendar-app.git/static/js/455.9c142af9.chunk.js.map",
+    "488.9ade48c6.chunk.js.map": "/saripallipriyanka23/entnt-calendar-app.git/static/js/488.9ade48c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97949004.css",
+    "static/js/main.bfb7ee5b.js"
+  ]
+}
